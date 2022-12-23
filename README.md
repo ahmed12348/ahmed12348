@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
-<h3 align="center">PHP Web Developer from Egypt</h3>
+<h2 align="left">Hi 👋, I'm Ahmed Mahmoud</h2>
+<h3 align="left">PHP Web Developer from Egypt</h3>
 
 - 🔭 I’m working at **EEC EGYPT**
 
