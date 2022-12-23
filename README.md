@@ -1,16 +1,48 @@
-<h3 align="left">Hi there 👋 Welcome To My Github Profile✨☺️</h3>
-ahmed12348/ahmed12348 is a ✨ special ✨ repository because its My Personal Repository.
-<h3 align="left">PHP Web Developer from Egypt</h3>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto"><a id="user-content-hi-there--welcome-to-my-github-profilerelaxed" class="anchor" aria-hidden="true" href="#hi-there--welcome-to-my-github-profilerelaxed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Welcome To My Github Profile<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji><g-emoji class="g-emoji" alias="relaxed" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/263a.png">☺️</g-emoji></h3>
+<p dir="auto"><strong>laila910/laila910</strong> is a <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> <em>special</em> <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> repository because its My Personal Repository.</p>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c87950fa9a7b086359a7cb684574e8f842863cc196d5814268118ff6fd2d82f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c61696c61393130266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/8c87950fa9a7b086359a7cb684574e8f842863cc196d5814268118ff6fd2d82f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c61696c61393130266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="laila910-Count" data-canonical-src="https://komarev.com/ghpvc/?username=laila910&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Currently, I'm Learning Cloud Software Engineering.</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Hobbies:</li>
+<li>Linux.</li>
+<li>CTF Challeges.</li>
+<li>Problem Solving, play with me <a href="https://www.codingame.com/profile/003cb35a2ab1adf1e8087c2c8412e08d7069194" rel="nofollow">codingame</a></li>
+</ul>
+<blockquote>
+<p dir="auto">Skills :</p>
+</blockquote>
+<ul dir="auto">
+<li>Front End Web Development skills
+HTML4, HTML5, CSS2, CSS3, JavaScript, JQUERY and Bootstrap Framework.</li>
+<li>Back End Web Development skills
+PHP, MYSQL, and Laravel Framework.</li>
+<li>MEAN Stack Web Development Skills.
+Mongo Db, Express, Angular Framework, and NodeJS.</li>
+<li>Knowledge of source control Systems and Cloud-Based Hosting services
+Git and GitHub.</li>
+<li>Knowledge of CSS preprocessors
+SASS, SCSS.</li>
+<li>Object-oriented programming (OOP).</li>
+<li>Clean Code techniques.</li>
+<li>WordPress.</li>
+<li>Web Tools:
+Node.js and NPM</li>
+<li>Rest APIs.</li>
+<li>Agile and Waterfall Models Technologies.</li>
+<li>Ajax.</li>
+<li>Design Patterns.</li>
+<li>Search Engine Optimization (SEO).</li>
+<li>Software Testing Techniques.</li>
+<li>Cloud Software Engineering</li>
+<li>Software Development Lifecycle.
+Writing Front End And Back End Apps.
+Testing Front End And Back End Apps.
+Maintaining Platforms and Systems.
+Experience With Major Cloud Providers like IBM Cloud and Amazon Web services.
+Knowledge of Data Structures, Distributed Systems, OS, and Algorithms.
+Experience with Databases.
+Proficiency in web apps Development Languages Such as
+JavaScript,Python,Java, Html, and CSS.</li>
+</ul>
 
-- 🔭 I’m working at **EEC EGYPT**
-
-- 📫 How to reach me **ahmed12348.com@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmedmahmoud437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedmahmoud437" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004870865357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004870865357" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</article>
