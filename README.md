@@ -10,7 +10,7 @@
 </blockquote>
 <ul dir="auto">
 <li>Front End Web Development skills
- HTML5, CSS2, CSS3, JavaScript, JQUERY and Bootstrap Framework.</li>
+ HTML5, CSS3, JavaScript, JQUERY and Bootstrap Framework.</li>
 <li>Back End Web Development skills
 PHP, MYSQL, and Laravel Framework.</li>
 <li>Knowledge of source control Systems and Cloud-Based Hosting services
