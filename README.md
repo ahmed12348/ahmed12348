@@ -3,8 +3,6 @@
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c87950fa9a7b086359a7cb684574e8f842863cc196d5814268118ff6fd2d82f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c61696c61393130266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/8c87950fa9a7b086359a7cb684574e8f842863cc196d5814268118ff6fd2d82f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c61696c61393130266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="ahmed12348-Count" data-canonical-src="https://komarev.com/ghpvc/?username=ahmed12348&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Currently, I'm Full Stack Developer At eecegypt.com</li>
-<li>Linux.</li>
-<li>CTF Challeges.</li>
 <li>Problem Solving, play with me <a href="https://www.codingame.com" rel="nofollow">codingame</a></li>
 </ul>
 <blockquote>
@@ -12,11 +10,9 @@
 </blockquote>
 <ul dir="auto">
 <li>Front End Web Development skills
-HTML4, HTML5, CSS2, CSS3, JavaScript, JQUERY and Bootstrap Framework.</li>
+ HTML5, CSS2, CSS3, JavaScript, JQUERY and Bootstrap Framework.</li>
 <li>Back End Web Development skills
 PHP, MYSQL, and Laravel Framework.</li>
-<li>MEAN Stack Web Development Skills.
-Mongo Db, Express, Angular Framework, and NodeJS.</li>
 <li>Knowledge of source control Systems and Cloud-Based Hosting services
 Git and GitHub.</li>
 <li>Knowledge of CSS preprocessors
@@ -24,15 +20,12 @@ SASS, SCSS.</li>
 <li>Object-oriented programming (OOP).</li>
 <li>Clean Code techniques.</li>
 <li>WordPress.</li>
-<li>Web Tools:
-Node.js and NPM</li>
 <li>Rest APIs.</li>
-<li>Agile and Waterfall Models Technologies.</li>
+<li>Waterfall Models Technologies.</li>
 <li>Ajax.</li>
 <li>Design Patterns.</li>
 <li>Search Engine Optimization (SEO).</li>
 <li>Software Testing Techniques.</li>
-<li>Cloud Software Engineering</li>
 <li>Software Development Lifecycle.
 Writing Front End And Back End Apps.
 Testing Front End And Back End Apps.
